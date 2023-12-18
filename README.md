@@ -1,4 +1,7 @@
 # XAutoNet
+
+Cite our paper:  Chakraborty, S., Kumar, K., Tadepalli, K. et al. Unleashing the power of explainable AI: sepsis sentinel's clinical assistant for early sepsis identification. Multimed Tools Appl (2023). https://doi.org/10.1007/s11042-023-17828-y
+
 The purpose of this work is to predict onset of sepsis in ICU patients 6 hours before using their physiological data and to provide diagnostic maps to clinicians or doctors for assisting them in making decisions. <br/>
 The main contribution of this paper are listed below-
 *	Developing a highly accurate predictive model to identify patients with sepsis at an early stage by taking a minimal number of features as input.
